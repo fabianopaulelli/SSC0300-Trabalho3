@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1449169475 source:c:\users\siks games\desktop\renan\t3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcMenu.h"
+
+1449169538 source:c:\users\siks games\desktop\renan\t3\funcmenu.c
+	<stdio.h>
+	<stdlib.h>
+	"funcMenu.h"
+
+1449168464 c:\users\siks games\desktop\renan\t3\matesp.h
+
+1449168996 c:\users\siks games\desktop\renan\t3\funcmenu.h
+	"matEsp.h"
+
+1449171560 source:c:\users\siks games\desktop\renan\t3\matesp.c
+	<stdio.h>
+	<stdlib.h>
+	"matEsp.h"
+
+1449165938 source:c:\users\8670013\downloads\t3_determinante\t3\funcmenu.c
+	<stdio.h>
+	<stdlib.h>
+	"funcMenu.h"
+
+1449165396 c:\users\8670013\downloads\t3_determinante\t3\funcmenu.h
+	"matEsp.h"
+
+1449164864 c:\users\8670013\downloads\t3_determinante\t3\matesp.h
+
+1449165875 source:c:\users\8670013\downloads\t3_determinante\t3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcMenu.h"
+
+1449167960 source:c:\users\8670013\downloads\t3_determinante\t3\matesp.c
+	<stdio.h>
+	<stdlib.h>
+	"matEsp.h"
+
